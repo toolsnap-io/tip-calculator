@@ -1,26 +1,20 @@
-# Tip Calculator 💰
+# Tip Calculator
 
-Quickly calculate tips and split bills among friends.
+A simple yet powerful tip calculator that helps you figure out exactly how much to tip and how to split the bill among friends.
 
 ## Features
 
-- Calculate tip amount based on custom percentage
-- Common tip presets (10%, 15%, 18%, 20%, 25%)
-- Split bill between multiple people
-- Show tip per person and total per person
-- Round up option for easy payment
-- Mobile-friendly responsive design
+- Adjustable tip percentage (10%, 15%, 18%, 20%, or custom)
+- Split bills among any number of people
+- Round up/down options for clean amounts
+- Support for multiple currencies
 
-## Usage Examples
+## How It Works
 
-- Bill: $85.00, Tip: 18% → Tip: $15.30, Total: $100.30
-- Split 3 ways: $33.43 per person
-- Bill: $45.50, Tip: 20%, 4 people → $13.65 per person
+Enter your bill amount, select your preferred tip percentage, and optionally choose how many people are splitting the bill. The calculator instantly shows you the tip amount, total, and each person's share.
 
-## Try It Online
-
-Visit [risetop.top](https://risetop.top) for this and 50+ free online tools.
+👉 **Try it online:** [Tip Calculator](https://risetop.top/tip-calculator.html)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License
